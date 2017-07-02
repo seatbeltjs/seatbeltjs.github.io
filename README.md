@@ -7,7 +7,7 @@ install jekyll globally
   sudo gem install jekyll -g
 ```
 
-to view changes locally.
+To view changes locally enter _src directory and
 ```bash
   jekyll serve
 ```
